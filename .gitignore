@@ -1,0 +1,5 @@
+.DS_Store
+.settings
+/target
+test-output/
+allure-results/
